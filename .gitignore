@@ -1,6 +1,9 @@
 # hackathon-specific
 data/*.h5
 data/*.csv
+data/*.zip
+data/*.h5ad
+data/*.tar.gz
 
 #
 # PYTHON STUFF

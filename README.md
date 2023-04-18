@@ -1,4 +1,4 @@
-# SBDS Hackathon
+# 2023 SBDS Hackathon
 ## Overview
 Welcome, to the 2023 Systems Biology and Data Science (SBDS) Hackathon. This is a 48-hour hackathon working to tackle open problems in single-cell analysis. The goal of this competition is to predict how DNA, RNA, and protein measurements co-vary in single cells as bone marrow stem cells develop into more mature blood cells. You will develop a model trained on a subset of 300,000-cell time course dataset of CD34+ hematopoietic stem and progenitor cells (HSPC) from four human donors at five time points generated for this competition by Cellarity, a cell-centric drug creation company. 
 
