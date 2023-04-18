@@ -21,7 +21,7 @@ These three datasets were obtained from single-cell multiomics data collected fr
 
 Each task mentioned [above](#the-challenge) works with two of the three datatypes. Task one works with scATAC-seq (input) + scRNA-seq (output), while task two works with scRNA-seq (input)  + scCITE-seq (output). As such, the tasks can be conceptualized as such:
 
-**Task 1:** Train a model with `train_multi_inputs.h5` (scATAC-seq) as input and `train_multi_targets.h5` (scRNA-seq) as output. Test your model with `test_multi_inputs.h5`.
+**Task 1:** Train a model with `train_multi_inputs.h5` (scATAC-seq) as input and `train_multi_targets.h5` (scRNA-seq) as output. Test your model with `test_multi_inputs.h5`.  
 **Task 2:** Train a model with `train_cite_inputs.h5` (scRNA-seq) as input and `train_cite_targets.h5` (scCITE-seq) as output. Test your model with `test_cite_targets.h5`.
 
 
